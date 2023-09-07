@@ -14,7 +14,11 @@ namespace GetToGithub
     {
         public Form1()
         {
+            //merge code nhánh con, sửa conflig
+            //nhánh con push thêm
+
             //Sửa ở nhánh main
+
             //hahahaha
             InitializeComponent();
         }
