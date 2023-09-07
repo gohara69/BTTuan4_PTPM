@@ -14,6 +14,7 @@ namespace GetToGithub
     {
         public Form1()
         {
+            //Cố tình tạo ra config nè
             InitializeComponent();
         }
     }
