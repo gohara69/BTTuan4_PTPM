@@ -14,6 +14,7 @@ namespace GetToGithub
     {
         public Form1()
         {
+            //Sửa ở nhánh main
             //hahahaha
             InitializeComponent();
         }
